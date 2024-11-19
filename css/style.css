@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body {
+    background-color: aliceblue;
+}
+.base {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 250px;
+    margin-left: 340px;
+}
+.imagen1 {
+    height: 500px;
+}
+.imagen-login {
+    width: 100px;
+    margin: auto;
+}
+.nivelador {
+    display: flex;
+    gap: 20px;
+}
+.enlaces {
+    position: end;
+}
+.login__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.inicio {
+    text-align: center;
+}
+.flex {
+    display: flex;
+    gap: 50px;
+    margin-top: 200px;
+    margin-left: 580px;
+}
+.imagen {
+    text-align: center;
+}

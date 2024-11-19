@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.imagen-uno {
+    width: 100%;
+    height: 500px;
+}
+.imagen2{
+    width: 700px;
+    height: 350px;
+}
+.bienvenida{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 10px;
+}
+.presentacion{
+    padding: 20px;
+    text-align: center;
+}
+.parte1{
+    padding: 20px 90px;
+    text-align: justify;
+    font-size: 20px;
+}
+.btn {
+    justify-content: center;
+}
+.parte2 {
+    padding: 20px;
+    justify-content: center;
+}
+.main-container {
+    background-color: rgb(247, 188, 140);
+}
+.div-imagenes { 
+    display: flex;
+    gap: 60px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.titulo {
+    text-align: center;
+    padding: 10px;
+    font-size: 28px;
+}
+.block {
+    padding: 30px;
+}
+.image {
+    width: 425px;
+    height: 425px;
+}
+.block, h3 {
+    text-align: center;
+}
+.div-titulo {
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap:60px;
+    justify-content: space-around;
+    padding: 30px 150px;
+}
+.container-grid h4 {
+    text-align: center;
+}
+.container-grid img {
+    width: 280px;
+    height: 280px;
+}
+
+footer{
+    background-color: #000000;
+}
+.footer{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+.footer_contents{
+    color: #fff;
+    padding: 15px;
+    width: 400px;
+    text-align: center;
+}
+form input{
+    margin: 5px;
+    width: 300PX;
+}
+.mensaje{
+    height: 40px;
+}
+.footer_end{
+    background-color: #817f7f;
+    padding: 10px;
+    text-align: center;
+}
